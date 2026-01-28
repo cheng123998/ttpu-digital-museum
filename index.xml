@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turin Polytechnic University Digital Museum</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Turin Polytechnic University Digital Museum</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blue and White Prunus Vase with Interlocking Lotus Pattern</title>
+      <link>http://localhost:1313/artifacts/item3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artifacts/item3/</guid>
+      <description>This blue and white prunus vase with interlocking lotus pattern has a regular shape with small mouth, short neck, full shoulders, and tapered belly, creating an elegant form. The entire body is covered with interlocking lotus patterns, featuring complex yet orderly decoration with smooth, natural lines. The blue coloration is vibrant with characteristic iron rust spots, typical of Sumali blue cobalt pigment.&#xA;The glaze surface is jade-like and lustrous, with pure white, fine clay body that produces a clear ringing sound when tapped.</description>
+    </item>
+    <item>
+      <title>Bronze Ding (Tripod Cauldron)</title>
+      <link>http://localhost:1313/artifacts/item1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artifacts/item1/</guid>
+      <description>This is a highly valuable bronze vessel with regular shape and excellent casting quality. The body is decorated with intricate taotie patterns and cloud-thunder patterns, with clear lines and distinct layers. The legs are sturdy and powerful, the handles are symmetrical, and the overall shape is solemn and dignified, representing the highest level of Shang Dynasty bronze casting craftsmanship.&#xA;There are three-character inscriptions on the inner wall, identified as &amp;ldquo;Fu Yi&amp;rdquo; (Father Yi), indicating that this ding was made for sacrificial ceremonies to Father Yi.</description>
+    </item>
+    <item>
+      <title>Tang Dynasty Court Lady Figurine</title>
+      <link>http://localhost:1313/artifacts/item2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artifacts/item2/</guid>
+      <description>Demonstrates the exceptional craftsmanship of Tang Dynasty artisans. The court lady has a plump face with delicate features, high hairstyle adorned with gold hairpins and floral ornaments. She wears a luxurious chest-high ruqun dress with flowing sleeves and a shawl, with natural drapery folds and vibrant polychrome decoration that appears fresh as new.&#xA;仕女像姿态优雅，右手轻抬似在整理发饰，左手自然下垂，整体造型生动传神。像身施以红、绿、黄、白等彩绘，虽历经千年，色彩依然鲜艳，展现了唐代彩绘陶俑的卓越工艺水平。&#xA;This figurine is not only a beautiful work of art but also important physical evidence for studying Tang Dynasty social life, clothing culture, and women&amp;rsquo;s status.</description>
+    </item>
+  </channel>
+</rss>
