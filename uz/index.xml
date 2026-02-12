@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Turin Polytechnic University Digital Museum</title><link>https://digital-museum.tpu.uz/uz/</link><description>Recent content on Turin Polytechnic University Digital Museum</description><generator>Hugo</generator><language>uz</language><atom:link href="https://digital-museum.tpu.uz/uz/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turin Polytechnic University Digital Museum</title>
+    <link>https://digital-museum.tpu.uz/uz/</link>
+    <description>Recent content on Turin Polytechnic University Digital Museum</description>
+    <generator>Hugo</generator>
+    <language>uz</language>
+    <atom:link href="https://digital-museum.tpu.uz/uz/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
